@@ -6,9 +6,17 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
-<div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
 
-</div>
+- **"Linear Bandits under Safety Constraints"**        
+K Nithin Varma, Sahin Lale, and Anima Anandkumar\
+In prepartion to be submitted [ [link](https://n1thinv.github.io/) ]
+
+- **"The Asymptotic Distribution of the Stochastic Mirror Descent Iterates in Linear Models"**      
+K Nithin Varma, Sahin Lale, and Babak Hassibi\
+*International Symposium of Information Theory (ISIT) 2023*
+
+- **"An Erasure Queue-Channel with Feedback: Optimal Transmission Control to Maximize Capacity"**     
+K Nithin Varma and Krishna Jagannathan\
+*Information Theory Workshop (ITW) 2023*
+

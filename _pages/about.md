@@ -13,10 +13,10 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 I am PhD student jointly advised by Prof. [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and Prof. [Babak Hassibi](https://www.babak.caltech.edu/) in the [CMS department](http://cms.caltech.edu/) at [Caltech](https://www.caltech.edu/). My primary research interests are in Machnine Learning, Information Theory and High Dimensional Statistics.
 
@@ -34,4 +34,4 @@ Prior to my PhD, I completed my undergraduate studies in the Department of Elect
 <a href="./files/cv_v3.pdf"> CV </a>
 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
